@@ -13,7 +13,6 @@ def input_text(path, text):
 email = "your email"
 senha = "your key"
 
-
 while True:
     print('start btc')
     with sync_playwright() as p:
